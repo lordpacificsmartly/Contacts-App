@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1065066759564",
+    "firebase_url": "https://contacts-app-4d380-default-rtdb.firebaseio.com",
+    "project_id": "contacts-app-4d380",
+    "storage_bucket": "contacts-app-4d380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065066759564:android:f97d2eea05bb692b1142a9",
+        "android_client_info": {
+          "package_name": "com.decagon.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065066759564-irklb2i2fsl5iuvp8q0rl6k2pe56baap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBU2DKdMkX8pZPIxvJ9mPhnYeof7hxA04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065066759564-irklb2i2fsl5iuvp8q0rl6k2pe56baap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065066759564:android:a4dec4599374b14b1142a9",
+        "android_client_info": {
+          "package_name": "com.jesse.contactsexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065066759564-irklb2i2fsl5iuvp8q0rl6k2pe56baap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBU2DKdMkX8pZPIxvJ9mPhnYeof7hxA04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065066759564-irklb2i2fsl5iuvp8q0rl6k2pe56baap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065066759564:android:f14b5836a7ccbb1c1142a9",
+        "android_client_info": {
+          "package_name": "ng.com.jedun.continousintegrationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065066759564-irklb2i2fsl5iuvp8q0rl6k2pe56baap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBU2DKdMkX8pZPIxvJ9mPhnYeof7hxA04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065066759564-irklb2i2fsl5iuvp8q0rl6k2pe56baap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
